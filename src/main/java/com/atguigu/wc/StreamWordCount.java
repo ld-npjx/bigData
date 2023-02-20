@@ -14,6 +14,7 @@ public class StreamWordCount {
         DataStream<String> dataSource = ev.readTextFile(inputPath);
 
 
+
     }
 
 }
